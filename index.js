@@ -13,5 +13,4 @@ function ageIsValid() {
     return true;
   }
   return false;
- 
 } 
