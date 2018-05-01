@@ -11,6 +11,7 @@ let  newID= oldID + 1000000000;
 ageIsValid = function() {
   if (Number.isInteger(currentAge)) {
     return true;
-  }
+  } else {
   return false;
+  }
 };
